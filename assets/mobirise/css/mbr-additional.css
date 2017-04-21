@@ -555,6 +555,7 @@ h6,
   color: #ffffff!important;
 }
 
+
 #ext_menu-l .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -616,4 +617,11 @@ h6,
 #ext_menu-l .link[aria-expanded="true"],
 #ext_menu-l .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
+}
+#form1-m .form-control-label {
+  color: #000000;
+}
+#form1-m .mbr-section-title {
+  font-family: 'Arimo', sans-serif;
+  color: #000000;
 }
