@@ -41,6 +41,18 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-size": "100px",
+              "text-align": "left",
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700"
+            }
+          },
           "_anchor": "header2-b",
           "_params": {
             "imageSize": 50,
@@ -86,25 +98,21 @@
           },
           "title": "Niels&nbsp;<br>De<br>Meirleir",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            ".mbr-section-text": {
-              "color": "#000000"
-            },
-            ".mbr-section-title": {
-              "color": "#000000",
-              "font-size": "100px",
-              "text-align": "left",
-              "font-family": "'Arimo', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-text": {
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700",
+              "font-size": "20px",
+              "text-align": "left"
+            }
+          },
           "_anchor": "header2-f",
           "_params": {
             "imageSize": 50,
@@ -150,15 +158,7 @@
           },
           "title": "INTRO WITH IMAGE",
           "text": "Met mijn werk probeer ik steeds dialogen aan te gaan met een welbepaald lichaam en een specifieke architectuur. Belangrijk vind ik dat de lijnen tussen performance- , interventiekunst en hedendaagse dans vervagen en dat ik de grenzen ervan blijf opzoeken.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".mbr-section-text": {
-              "font-family": "'Arimo', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700",
-              "font-size": "20px",
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     }
