@@ -492,6 +492,7 @@ h6,
   text-align: left;
 }
 
+
 #ext_menu-k .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -553,6 +554,14 @@ h6,
 #ext_menu-k .link[aria-expanded="true"],
 #ext_menu-k .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
+}
+#msg-box8-n .mbr-section-title,
+#msg-box8-n p {
+  color: #fff;
+}
+#msg-box8-n .mbr-section-title {
+  text-align: left;
+  font-family: 'Arimo', sans-serif;
 }
 
 
