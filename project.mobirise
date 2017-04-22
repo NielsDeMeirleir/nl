@@ -163,7 +163,7 @@
             "showTitle": true,
             "showText": false,
             "showButtons": false,
-            "showArrow": false
+            "showArrow": true
           },
           "media": {
             "image": {
